@@ -24,11 +24,6 @@ If coin <= i, update dp[i] = min(dp[i], dp[i - coin] + 1).
 
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: PAVITHRA S
-Register Number: 212223230147
-*/
 
 import java.util.*;
 
