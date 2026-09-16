@@ -33,11 +33,6 @@ Constraints:
 
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: PAVITHRA S
-Register Number: 212223230147
-*/
 import java.util.*;
 
 public class SolarEnergyMaximizer {
