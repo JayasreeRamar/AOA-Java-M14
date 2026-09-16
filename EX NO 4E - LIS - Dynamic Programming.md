@@ -22,11 +22,6 @@ Explanation: The longest increasing subsequence is [2,3,7,101], therefore the le
 
 ## Program:
 ```
-/*
-Program to implement Reverse a String
-Developed by: PAVITHRA S
-Register Number: 212223230147
-*/
 import java.util.*;
 
 public class LongestIncreasingSubsequence {
